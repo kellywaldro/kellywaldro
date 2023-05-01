@@ -6,7 +6,7 @@ I'm currently in the Data Journalism program at Columbia. Before that, I used to
 
 Check out my analysis / viz / troubleshooting here. 
 
-kelly[dot]wadron[at]columbia[dot]edu
+kelly.waldron@columbia.edu
 
 
 <!--
