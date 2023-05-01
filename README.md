@@ -1,4 +1,4 @@
-### Hello! I'm Kelly 
+### Hi, I'm Kelly!
 
 I'm a geographer turned data journalist. I like maps, scraping, and cleaning messy datasets. 
 
