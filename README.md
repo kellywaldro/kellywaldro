@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! I'm Kelly 
+
+I'm a geographer turned data journalist. I like maps, scraping, and cleaning messy datasets. 
+
+I'm currently in the Data Journalism program at Columbia. Before that, I used to work for a remote sensing company analysing methane emissions using satellite imagery 🛰.  
+
+Check out my analysis / viz / troubleshooting here. 
+
+kelly[dot]wadron[at]columbia[dot]edu
+
 
 <!--
 **kellywaldro/kellywaldro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
