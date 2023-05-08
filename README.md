@@ -2,7 +2,7 @@
 
 I'm a geographer turned data journalist. I like maps, scraping, and cleaning messy datasets. 
 
-I'm currently in the Data Journalism program at Columbia. Before that, I used to work for a remote sensing company analysing methane emissions using satellite imagery 🛰.  
+I'm currently in the Data Journalism program at Columbia. Before that, I used to work for a remote sensing company analyzing methane emissions using satellite imagery 🛰.  
 
 Check out my analysis / viz / troubleshooting here. 
 
