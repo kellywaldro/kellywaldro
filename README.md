@@ -4,8 +4,6 @@ I'm a geographer turned data journalist. I like maps, scraping, and cleaning mes
 
 I'm a data journalist at Mission Local, and recent graduate of the the Data Journalism program at Columbia Journalism School. Before that, I used to work for a remote sensing company analyzing methane emissions using satellite imagery 🛰.  
 
-Check out my analysis / viz / troubleshooting here. 
-
 kelly.waldron@columbia.edu
 
 
